@@ -1,0 +1,71 @@
+Room Id,Alt Name,Usage Policy,Room Type,Building Id,Data Source
+0A27,Aud0,unsure,Auditorium,RLV,timeedit
+0A11,Aud1,unsure,Auditorium,RLV,timeedit
+0A35,Aud2,unsure,Auditorium,RLV,timeedit
+0E01,ScrollBar,unsure,ScrollBar,timeedit
+2A03,,Drop In,Skybox,RLV,static
+2A05,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+2A07,,Drop In,Skybox,RLV,static
+2A12-14,,unsure,Classroom,RLV,timeedit
+2A18,,unsure,Classroom,RLV,timeedit
+2A20,,unsure,Classroom,RLV,timeedit
+2A50,IPC,unsure,Classroom,RLV,timeedit
+2A52,,unsure,Classroom,RLV,timeedit
+2A54,,unsure,Classroom,RLV,timeedit
+2A56,Aud3,unsure,Auditorium,RLV,timeedit
+2A58,,Drop In,Group Room,RLV,static
+2A60,,Drop In,Group Room,RLV,static
+3A01,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+3A03,,Drop In,Skybox,RLV,static
+3A05,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+3A07,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+3A12-14,,unsure,Classroom,RLV,timeedit
+3A18,,unsure,Classroom,RLV,timeedit
+3A20,(FM) (Exam ok),unsure,Classroom,RLV,timeedit
+3A50,,unsure,StudyLab,RLV,timeedit
+3A52,,unsure,Classroom,RLV,timeedit
+3A54,,unsure,Classroom,RLV,timeedit
+3A58,,Drop In,Group Room,RLV,static
+3CHappify,Happify,Drop In 09:00-16:00,Group Room,RLV,static
+4A01,,Drop In,Skybox,RLV,static
+4A03,,Drop In,Skybox,RLV,static
+4A07,,Drop In,Skybox,RLV,static
+4A08,,Drop In,Group Room,RLV,static
+4A14,,unsure,Classroom,RLV,timeedit
+4A14-16,,unsure,Classroom,RLV,timeedit
+4A16,,unsure,Classroom,RLV,timeedit
+4A20,,unsure,Classroom,RLV,timeedit
+4A22,,unsure,Classroom,RLV,timeedit
+4A30,,unsure,Classroom,RLV,timeedit
+4A32,,Drop In,Group Room,RLV,static
+4A34,,Drop In,Group Room,RLV,static
+4A46,,Drop In,Group Room,RLV,static
+4A54,,unsure,Classroom,RLV,timeedit
+4A56,,unsure,Classroom,RLV,timeedit
+4A58,,unsure,Classroom,RLV,timeedit
+4A60,Aud4,unsure,Auditorium,RLV,timeedit
+4A62,,Drop In,Group Room,RLV,static
+4A64,,Drop In,Group Room,RLV,static
+5A03,,Drop In,Skybox,RLV,static
+5A07,,Drop In,Skybox,RLV,static
+5A14-16,,unsure,group,RLV,timeedit
+5A20,,unsure,Classroom,RLV,timeedit
+5A22,,unsure,Classroom,RLV,timeedit
+5A30,,unsure,Classroom,RLV,timeedit
+5A60,,unsure,Classroom,RLV,timeedit
+4A05,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+4A09,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+5A01,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+5A05,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+5A09,,Booking at Information Desk,Skybox,RLV,rooms.itu.dk
+5A44,,Drop In,Group Room,RLV,static
+5A46,,Drop In,Group Room,RLV,static
+5A64,,Drop In,Group Room,RLV,static
+2F43,,Drop In,Glass Box,EHK,static
+2F45,,Drop In,Glass Box,EHK,static
+2F49,,Drop In,Reading Room,EHK,static
+2F10,,unsure,Classroom,EHK,timeedit
+2F12,,unsure,Classroom,EHK,timeedit
+2F13,,unsure,Classroom,EHK,timeedit
+2F14,,unsure,Classroom,EHK,timeedit
+2F16,,unsure,Classroom,EHK,timeedit

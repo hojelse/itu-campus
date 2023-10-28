@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.8.9"
+  },
+  "name": "itu-campus",
+  "description": "Info about the ITU campus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hojelse/itu-campus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hojelse/itu-campus/issues"
+  },
+  "homepage": "https://github.com/hojelse/itu-campus#readme"
+}
